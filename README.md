@@ -8,7 +8,7 @@ An interactive historical web application documenting the organizational history
 
 ## About
 
-Based on the research paper"[The Rotary Districts and Governors in the Republic of China 1919–1951](https://rotaryinchina.org/the-rotary-districts-and-governors-in-the-republic-of-china-1919-1951-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%9A%84%E6%89%B6%E8%BC%AA%E5%9C%B0%E5%8D%80%E8%88%87%E6%AD%B7%E4%BB%BB%E7%B8%BD/)" by **Herbert K. Lau (劉敬恒)**, Rotary China Historian (1 July 2015).
+Based on the research paper "[The Rotary Districts and Governors in the Republic of China 1919–1951](https://rotaryinchina.org/the-rotary-districts-and-governors-in-the-republic-of-china-1919-1951-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%9A%84%E6%89%B6%E8%BC%AA%E5%9C%B0%E5%8D%80%E8%88%87%E6%AD%B7%E4%BB%BB%E7%B8%BD/)" by **Herbert K. Lau (劉敬恒)**, Rotary China Historian (1 July 2015).
 
 The application covers:
 - Three clubs in 1919 → 25 clubs at the 1940 peak → 4 survivors in 1952
